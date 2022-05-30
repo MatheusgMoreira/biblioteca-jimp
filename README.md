@@ -5,7 +5,7 @@ Utilização
 
 $ npm install jimp
 <br>
-copiar arquivo jimp.ds
+copiar arquivo jimp.js
 <br>
 criar a pasta img
 <br>
